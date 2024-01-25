@@ -104,5 +104,5 @@ window.addEventListener("scroll", () => {
 });
 
 function YtPage() {
-	window.open("https://www.youtube.com/channel/UCRonXfeUxwHLAiX7dLHnIeQ", "target=_blank");
+	window.open("https://www.youtube.com/channel/UCSirPpB1SZZ8nWM9BYrIiSA", "target=_blank");
 }
